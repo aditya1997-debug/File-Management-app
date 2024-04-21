@@ -1,0 +1,77 @@
+Aditya Dalvi
+
++918888596705
+adityadalvi8910@gmail.com
+WWW: https://github.com/aditya1997-debug
+WWW: https://www.linkedin.com/in/aditya-dalvi-bkd1/
+
+Summary
+
+Backend Developer with expertise in designing, implementing, and maintaining scalable web applications. Proficient in languages such as Python, JavaScript, Django, with a strong focus on database management and API development. Skilled in troubleshooting and optimizing performance to ensure seamless user experiences.
+
+Experience
+
+January 2024 - Current
+Augmented Transformations - Pune, India
+Software Trainee
+
+Currently gaining hands-on experience in software development under the mentorship of senior developers.
+Actively involved in projects utilizing Python, JavaScript, ChartJs, Django, and OpenCV technologies.
+Contributing to various stages of software development lifecycle including design, implementation, testing, and debugging.
+
+February 2023 - October 2023
+Myelin Company - Pune, India
+Backend Developer Intern
+
+Responsible for developing backend Models and APIs for building an Online Exam Portal Web Application using technologies like NodeJS, MongoDB, JavaScript, Mongoose and ExpressJS
+Developed backend Models and APIs for applications designed specifically for schools that are clients of Myelin, enhancing teachers and parents ability to Track students academic progress and to Identify students specific traits, behaviors, academic strengths, and areas of interest.
+
+Projects
+
+Customer Care
+
+Developed an application to provide consumer services. This application would allow customers to submit service requests online, track the status of their requests.
+The application would also provide customer support representatives with a tool to manage requests and provide support to customers.
+Created Using Python, JavaScript, Django, SQLite, HTML, CSS, Bootstrap.
+
+Network
+
+Developed a Twitter-like social network web application using Python, Django, JavaScript, SQLite, HTML, CSS and Bootstrap.
+Users can Create, Like, Edit, Delete posts. Reply to posts and View replies of a post. and also Follow and Unfollow users
+
+Auction
+
+Created an eBay like e-commerce auction site using Python, Django, SQLite, HTML, CSS and Bootstrap.
+This web application allows users to post auction listings, place bids on listings, comment on those listings, and add listings to watchlist.
+
+Certificates And Courses
+
+CS50 Introduction to computer Science, Harvard Extension
+CS50 Web Programming with Python and JavaScript, Harvard Extension
+Introduction to programming with Python, University Of Helsinki
+Python, SQL - HackerRank
+
+Skills
+
+Python
+Django
+JavaScript
+NodeJS
+MongoDB
+
+Express
+HTML
+CSS
+SQLite
+Bootstrap
+
+Education and Training
+
+Trinity College of Engineering and Research
+BE - MECH
+GPA: 7.14
+
+Extracurricular Activities
+
+Secured 2nd position at a Chess Competition in TCOER College.
+Teach fitness exercises to individuals aiming to maintain fitness.

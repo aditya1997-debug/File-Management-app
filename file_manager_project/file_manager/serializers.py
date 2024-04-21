@@ -18,7 +18,7 @@ class FileSerializer(serializers.ModelSerializer):
 
     class Meta:
         model = File
-        fields = ['name', 'file', 'owner', 'shared_with', 'assigned_to', 'parent_folder']
+        fields = ['name', 'file', 'owner', 'shared_with', 'assigned_to']
 
 class CustomFileSerializer(serializers.ModelSerializer):
     class Meta:
@@ -31,7 +31,7 @@ class FolderSerializer(serializers.ModelSerializer):
 
     class Meta:
         model = Folder
-        fields = ['id', 'name', 'owner', 'parent_folder', 'files']
+        fields = ['id', 'name', 'owner', 'files']
 
 
 

@@ -35,7 +35,7 @@ class Company(models.Model):
 
 class File(models.Model):
     name = models.CharField(max_length=255)
-    file = models.FileField(upload_to='files/')
+    file = models.FileField(upload_to='uploaded_files/')
     owner = models.ForeignKey(CustomUser, on_delete=models.CASCADE)
     shared_with = models.ManyToManyField(CustomUser, related_name='shared_files', blank=True)
     assigned_to = models.ManyToManyField(CustomUser, related_name='assigned_files', blank=True)
